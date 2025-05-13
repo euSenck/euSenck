@@ -1,1 +1,1 @@
-Olá, estou começando na programação para fins de cibersegurança! Inicialmente programo em C
+💻 Programador C | Futuro profissional de cibersegurança | Explorando segurança através do código
